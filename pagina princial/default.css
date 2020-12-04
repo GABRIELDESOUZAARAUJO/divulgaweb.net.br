@@ -8,7 +8,7 @@ body
 {
 	margin: 0px;
 	padding: 0px;
-	background: #2b36d3;
+	background: #58534F;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	color: #4F4F4F;
@@ -209,7 +209,7 @@ ul.style1 .first
 {
 	display: block;
 	text-decoration: none;
-	text-shadow: 1px 1px 0px rgba(16, 35, 206, 0.3);
+	text-shadow: 1px 1px 0px rgba(0,0,0,.30);
 	text-transform: uppercase;
 	font-weight: 400;
 	font-family: 'Archivo Narrow', sans-serif;
